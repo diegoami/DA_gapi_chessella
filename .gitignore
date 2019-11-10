@@ -7,3 +7,4 @@ build
 .idea
 
 out
+application-remote.properties
