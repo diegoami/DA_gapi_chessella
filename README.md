@@ -1,4 +1,4 @@
-# TEST WITH GRADLE
+# CHESSELLA-API
 
-See https://guides.gradle.org/building-spring-boot-2-projects-with-gradle/
+Create an application-remote.properties with the  database connection parameters and set `--spring.profiles.active=remote`
 
